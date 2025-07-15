@@ -11,21 +11,22 @@ import { GalleryImage } from "@/components/gallary-image"
 const galleryImages = [
   {
     id: 1,
-    src: "/assets/2.jpg",
+    src: "/assets/13.jpg",
     alt: "Bridal Makeup Look",
-    title: "Elegant Bridal Makeup",
+      title: "Salama Makeup",
+  
     category: "Bridal",
   },
   {
     id: 2,
-    src: "/assets/1.jpg",
+    src: "/assets/10.jpg",
     alt: "Evening Glam Makeup",
     title: "Evening Glam",
     category: "Evening",
   },
   {
     id: 3,
-    src: "/assets/3.jpg",
+    src: "/assets/1.jpg",
     alt: "Natural Day Makeup",
     title: "Natural Day Look",
     category: "Natural",
@@ -67,14 +68,14 @@ const galleryImages = [
   },
   {
     id: 9,
-    src: "/assets/9.jpg",
+    src: "/assets/3.jpg",
     alt: "Creative Artistic Makeup",
-    title: "Artistic Expression",
+    title: "Nice Hair Style",
     category: "Creative",
   },
   {
     id: 10,
-    src: "/assets/10.jpg",
+    src: "/assets/2.jpg",
     alt: "Creative Artistic Makeup",
     title: "Decent Makeup",
     category: "Creative",
@@ -95,9 +96,9 @@ const galleryImages = [
   },
   {
     id: 13,
-    src: "/assets/13.jpg",
+    src: "/assets/9.jpg",
     alt: "Creative Artistic Makeup",
-    title: "Salama Makeup",
+     title: "Elegant Bridal Makeup",
     category: "Creative",
   },
 ]
