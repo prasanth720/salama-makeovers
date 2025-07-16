@@ -13,7 +13,7 @@ const galleryImages = [
     id: 1,
     src: "/assets/13.jpg",
     alt: "Bridal Makeup Look",
-      title: "Salama Makeup",
+      title: "Salma Makeup",
   
     category: "Bridal",
   },
@@ -126,7 +126,7 @@ const services = [
   },
 ]
 
-export default function SalamaMakeupApp() {
+export default function SalmaMakeupApp() {
   const [selectedCategory, setSelectedCategory] = useState("All")
   const categories = ["All", "Bridal", "Evening", "Natural", "Party", "Professional", "Creative"]
 
@@ -145,7 +145,7 @@ export default function SalamaMakeupApp() {
               </div>
               <div>
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-pink-600 to-rose-600 bg-clip-text text-transparent">
-                  Salama Makeup
+                  Salma Makeup
                 </h1>
                 <p className="text-sm text-gray-600">Professional Makeup Artist</p>
               </div>
@@ -313,7 +313,7 @@ export default function SalamaMakeupApp() {
             <Card className="text-center p-6 hover:shadow-lg transition-shadow">
               <Mail className="w-8 h-8 mx-auto mb-4 text-pink-600" />
               <h4 className="font-semibold mb-2">Email</h4>
-              <p className="text-gray-600">hello@salamamakeup.com</p>
+              <p className="text-gray-600">hello@salmamakeup.com</p>
             </Card>
 
             <Card className="text-center p-6 hover:shadow-lg transition-shadow">
@@ -340,7 +340,7 @@ export default function SalamaMakeupApp() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-6 md:mb-0">
               <h4 className="text-2xl font-bold bg-gradient-to-r from-pink-400 to-rose-400 bg-clip-text text-transparent">
-                Salama Makeup
+                Salma Makeup
               </h4>
               <p className="text-gray-400 mt-2">Professional Makeup Artist</p>
             </div>
@@ -359,7 +359,7 @@ export default function SalamaMakeupApp() {
           </div>
 
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 Salama Makeup. All rights reserved.</p>
+            <p>&copy; 2025 Salma Makeup. All rights reserved.</p>
           </div>
         </div>
       </footer>
